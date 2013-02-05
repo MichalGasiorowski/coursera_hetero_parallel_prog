@@ -2,7 +2,7 @@
 // Given a list (lst) of length n
 // Output its prefix sum = {lst[0], lst[0] + lst[1], lst[0] + lst[1] + ... + lst[n-1]}
 // Due Tuesday, January 22, 2013 at 11:59 p.m. PST
-
+ 
 #include    <wb.h>
 
 #define BLOCK_SIZE 512 //@@ You can change this
